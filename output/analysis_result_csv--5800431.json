@@ -1,0 +1,82 @@
+{
+  "status": "success",
+  "analysis_id": "csv--5800431",
+  "results": {
+    "basic_stats": {
+      "toplam_calisan": 2445,
+      "departman_dagilimi": {
+        "Yazılım Geliştirme": 1459,
+        "Müşteri İlişkileri ve Satış": 372,
+        "Mali İşler": 364,
+        "İnsan Kaynakları": 174,
+        "Yönetim": 76
+      },
+      "sehir_dagilimi": {
+        "İstanbul": 1178,
+        "Ankara": 656,
+        "Kocaeli": 321,
+        "Bursa": 290
+      },
+      "ortalama_maas": 8140.99018404908,
+      "maas_std": 3598.3210006383806,
+      "telefon_turu_dagilimi": {
+        "Türk Telekom": 1109,
+        "Vodafone": 863,
+        "Sabit": 253,
+        "Türkcell": 220
+      }
+    },
+    "department_analysis": {
+      "Müşteri İlişkileri ve Satış": {
+        "calisan_sayisi": 372,
+        "ortalama_maas": 6794.139784946236,
+        "min_maas": 3027.0,
+        "max_maas": 14820.0
+      },
+      "Yazılım Geliştirme": {
+        "calisan_sayisi": 1459,
+        "ortalama_maas": 8520.39342015079,
+        "min_maas": 3017.0,
+        "max_maas": 19907.0
+      },
+      "İnsan Kaynakları": {
+        "calisan_sayisi": 174,
+        "ortalama_maas": 7750.051724137931,
+        "min_maas": 3081.0,
+        "max_maas": 15904.0
+      },
+      "Yönetim": {
+        "calisan_sayisi": 76,
+        "ortalama_maas": 13705.815789473685,
+        "min_maas": 4748.0,
+        "max_maas": 24270.0
+      },
+      "Mali İşler": {
+        "calisan_sayisi": 364,
+        "ortalama_maas": 7021.692307692308,
+        "min_maas": 3095.0,
+        "max_maas": 14882.0
+      }
+    },
+    "age_distribution": {
+      "ortalama_yas": 39.34731540852905,
+      "min_yas": 26.078028747433265,
+      "max_yas": 55.917864476386036,
+      "yas_dagilimi": {
+        "20-30": 168,
+        "31-40": 1179,
+        "41-50": 684,
+        "51+": 218
+      }
+    },
+    "gemini_analysis": "**Departman Bazlı Performans Analizi**\n\n**1. Maaş**\n\n* En yüksek ortalama maaş Yönetim departmanındadır (13705.82 TL).\n* Yazılım Geliştirme, en yüksek maaş aralığına sahiptir (3017.00 - 19907.00 TL).\n\n**2. Çalışan Verimliliği**\n\n* Yazılım Geliştirme, en fazla çalışanı barındıran departmandır (1459).\n* Müşteri İlişkileri ve Satış, en düşük ortalama maaşlı departmandır (6794.14 TL).\n\n**3. Departmanlar Arası Karşılaştırmalar**\n\n* Yazılım Geliştirme departmanı, Müşteri İlişkileri ve Satış departmanından %25,1 daha fazla çalışana sahiptir.\n* Yönetim departmanı, Müşteri İlişkileri ve Satış departmanından %155,3 daha fazla ortalama maaş almaktadır.\n\n**Şehir Bazlı Performans Analizi**\n\n**1. Maaş**\n\n* İstanbul, en yüksek ortalama maaşı sunan şehirdir (9672,72 TL).\n\n**2. Çalışan Dağılımı**\n\n* İstanbul, en fazla çalışanı barındıran şehirdir (1178).\n\n**3. Şehirler Arası Karşılaştırmalar**\n\n* İstanbul, Ankara'dan %41,3 daha fazla ortalama maaş almaktadır.\n* Kocaeli, Bursa'dan %10,6 daha fazla çalışana sahiptir.\n\n**Yaş Analizi**\n\n* Ortalama yaş 39,3'tür.\n* En genç çalışan 26,1 yaşındadır.\n* En yaşlı çalışan 55,9 yaşındadır.\n\n**Genel Öneriler**\n\n* Yönetim departmanının maaş aralığını genişletmek, üst düzey yetenekleri çekmeye yardımcı olabilir.\n* Müşteri İlişkileri ve Satış departmanına daha rekabetçi maaş paketleri sunulmalıdır.\n* Kocaeli ve Bursa'da işe alım çabaları artırılarak şehirler arası çalışan dağılımı dengelenebilir.\n* Yaşlı çalışanlar için esnek çalışma seçenekleri sunmak, kuruluş içinde bilgi birikimini koruyabilir.",
+    "visualization_files": [
+      "C:\\Users\\asus\\Desktop\\Şirket_Solvera\\Muneccin\\TemelModel\\MuneccimData-main (1)\\MuneccimData-main - Kopya\\output\\departman_dagilimi.png",
+      "C:\\Users\\asus\\Desktop\\Şirket_Solvera\\Muneccin\\TemelModel\\MuneccimData-main (1)\\MuneccimData-main - Kopya\\output\\maas_dagilimi.png",
+      "C:\\Users\\asus\\Desktop\\Şirket_Solvera\\Muneccin\\TemelModel\\MuneccimData-main (1)\\MuneccimData-main - Kopya\\output\\sehir_dagilimi.png",
+      "C:\\Users\\asus\\Desktop\\Şirket_Solvera\\Muneccin\\TemelModel\\MuneccimData-main (1)\\MuneccimData-main - Kopya\\output\\yas_maas_iliskisi.png",
+      "C:\\Users\\asus\\Desktop\\Şirket_Solvera\\Muneccin\\TemelModel\\MuneccimData-main (1)\\MuneccimData-main - Kopya\\output\\departman_maas_dagilimi.png",
+      "C:\\Users\\asus\\Desktop\\Şirket_Solvera\\Muneccin\\TemelModel\\MuneccimData-main (1)\\MuneccimData-main - Kopya\\output\\telefon_turu_dagilimi.png"
+    ]
+  }
+}
