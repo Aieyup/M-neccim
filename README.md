@@ -320,6 +320,17 @@ class StreamingAnalyzer:
 6. Sculley, D. (2010). "Web-Scale K-Means Clustering"
 7. Cardot, H., et al. (2015). "Online Principal Component Analysis in High Dimension"
 
+## Yazar
+---
+Bu Python eğitimi, Eyyüp Toprak tarafından yazılmış ve paylaşılmıştır.
+### İletişim
+
+[eyup.tp@hotmail.com](mailto:eyup.tp@hotmail.com)
+---
+## Lisans
+---
+[Apache 2.0 License](https://github.com/apache/.github/blob/main/LICENSE)
+---
 ## 🤝 Katkıda Bulunma
 
 1. Fork the Project
