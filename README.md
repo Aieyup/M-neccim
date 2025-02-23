@@ -322,7 +322,7 @@ class StreamingAnalyzer:
 
 ## Yazar
 ---
-Bu Python eğitimi, Eyyüp Toprak tarafından yazılmış ve paylaşılmıştır.
+Bu Proje, Eyyüp Toprak tarafından yazılmış ve paylaşılmıştır.
 ### İletişim
 
 [eyup.tp@hotmail.com](mailto:eyup.tp@hotmail.com)
